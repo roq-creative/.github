@@ -1,3 +1,5 @@
+![roq_creative-mono-black](https://raw.githubusercontent.com/roq-creative/roq-creative/refs/heads/master/roq_creative-mono-black.svg)
+
 ### Design estratégico. Desenvolvimento moderno. Marcas que evoluem.
 
 Criamos experiências digitais que unem estratégia, performance e design para transformar a forma como empresas são percebidas.
