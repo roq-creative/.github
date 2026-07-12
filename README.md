@@ -1,4 +1,4 @@
-![roq_creative-mono-black](https://raw.githubusercontent.com/roq-creative/roq-creative/refs/heads/master/roq_creative-mono-black.svg)
+![roq_creative-mono-white](https://raw.githubusercontent.com/roq-creative/roq-creative/refs/heads/master/roq_creative-mono-white.svg)
 
 ### Design estratégico. Desenvolvimento moderno. Marcas que evoluem.
 
